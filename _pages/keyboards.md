@@ -6,6 +6,7 @@ permalink: /keyboards/
 # All Supported Keyboards
 
 * [alps64](https://github.com/qmk/qmk_firmware/blob/master/keyboards/alps64)
+* [amj40](https://github.com/qmk/qmk_firmware/blob/master/keyboards/amj40)
 * [amj60](https://github.com/qmk/qmk_firmware/blob/master/keyboards/amj60)
 * [amjpad](https://github.com/qmk/qmk_firmware/blob/master/keyboards/amjpad)
 * [arrow_pad](https://github.com/qmk/qmk_firmware/blob/master/keyboards/arrow_pad)
